@@ -4,7 +4,7 @@
 
 <br><br>
 <p align="center">
-<strong>Proxy generator in proxiscrapper, generates and checks that they are valid and saves them in txt</strong><br><br>
+<strong>Proxy generator in proxyscrape, generates and checks that they are valid and saves them in txt</strong><br><br>
 </strong>
 
   <a>
